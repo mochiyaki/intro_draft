@@ -22,7 +22,7 @@ Furthermore, when freedom of speech is restricted, it can lead to the rise of pr
 In conclusion, freedom of speech is a fundamental human right that is essential for a functioning democracy. It allows for the free exchange of ideas and the ability to hold government accountable. It is important to protect and defend freedom of speech in order to promote creativity, diversity of thought and to prevent oppression.
 
 
-# ipfs and freedom of speech 🌠
+# ipfs 🌠 and freedom of speech 📣
 IPFS (InterPlanetary File System) is a distributed file system that aims to make the web faster, safer, and more open. It uses a peer-to-peer network to distribute and store files, rather than relying on centralized servers. This allows for faster and more efficient file sharing, as well as greater resilience and censorship resistance.
 
 IPFS can be used to protect freedom of speech by providing a decentralized way to share and access information. Because IPFS is not reliant on centralized servers, it is more difficult for governments or other organizations to censor or shut down access to information. In addition, because files are distributed across multiple nodes in the network, it is more difficult to remove or alter specific files.
